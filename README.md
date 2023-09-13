@@ -20,7 +20,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Course based on simulations and optimizing codelogic.
+Course based on simulations and optimizing codelogic. There are four different projects.
+
+*Containership
+*Chess algorithm
+*ProductionLine
+*Construction Project
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
