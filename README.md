@@ -22,10 +22,10 @@
 
 Course based on simulations and optimizing codelogic.
 There are four different projects:
-  *Containership
-  *Chess algorithm
-  *ProductionLine
-  *Construction Project
+  * Containership
+  * Chess algorithm
+  * ProductionLine
+  * Construction Project
 
 
 <!-- GETTING STARTED -->
